@@ -1,6 +1,7 @@
 baseURL: https://emily5.com
 title: Emily M Gomez
 defaultContentLanguage: 'en'
+theme: eternitys
 googleAnalytics: ''
 
 params:
