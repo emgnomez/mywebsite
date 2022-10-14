@@ -15,12 +15,12 @@ params:
       desktop:
         art: 4
         archive: 6
-        people: 2
+        design: 2
         default: 3
       mobile:
         default: 2
         archive: 3
-        people: 1
+        design: 1
   socials:
     # todo: change these links.
     - icon: 'far fa-envelope fa-lg'
@@ -53,8 +53,8 @@ menu:
     - name: work
       url: /work/
       weight: 1
-    - name: people
-      url: /tags/people/
+    - name: design
+      url: /tags/design/
       weight: 2
     - name: art
       url: /tags/art/
