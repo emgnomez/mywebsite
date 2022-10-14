@@ -5,7 +5,7 @@ googleAnalytics: ''
 
 params:
   image: /images/banner.png
-  subtitle: Hi, my name is Emily. I have a background in software engineering and aspire to be a graphic designer. The purpose of this site is to showcase my work.
+  subtitle: Hi, my name is Emily. I have a background in software engineering and aspire to be a graphic designer.
   #copyright: All rights reserved.
   author: Emily Gomez
   dontShowSource: false # please, do not do this :)
