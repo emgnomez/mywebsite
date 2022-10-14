@@ -13,7 +13,7 @@ params:
   portfolio:
     columns:
       desktop:
-        nature: 4
+        art: 4
         archive: 6
         people: 2
         default: 3
@@ -56,8 +56,8 @@ menu:
     - name: people
       url: /tags/people/
       weight: 2
-    - name: nature
-      url: /tags/nature/
+    - name: art
+      url: /tags/art/
       weight: 3
     - name: archive
       url: /tags/archive/
