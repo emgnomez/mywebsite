@@ -1,0 +1,3 @@
+[submodule "themes/eternitys"]
+	path = themes/eternitys
+	url = https://github.com/boratanrikulu/eternity.git
