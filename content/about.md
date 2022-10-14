@@ -23,6 +23,6 @@ hideDate: true
 		At present, I've left my job as a software engineer and am now pursuing higher education in graphic design. The desire to learn design is what I'm currently moving towards and I am now looking forward to opportunities where I can learn to create user friendly frontend web designs.
 	</p>
 	<p>
-		A little more informal information about me is that I love anime, webtoons, traveling (heh), cooking, my plants, bunnies, and learning new things. I've recently picked up sudoko, am reading Slaughterhouse Five, and will eventually beat Zelda BOTW when I gain the courage to finish it. I also have a really cool big brother.
+		A little more about me is that I love anime, webtoons, travelling (heh), cooking, my plants, bunnies, and learning new things. I've recently picked up sudoku, am reading Slaughterhouse Five, and will eventually beat Zelda BOTW when I gain the courage to finish it. I also have a really cool big brother.
 	</p>
 </div>
