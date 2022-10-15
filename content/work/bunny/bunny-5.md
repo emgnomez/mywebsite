@@ -1,4 +1,5 @@
 ---
+index: 10
 weight: 4
 images:
 - https://source.unsplash.com/random?bunny&1617731381

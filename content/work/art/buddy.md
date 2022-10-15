@@ -1,4 +1,5 @@
 ---
+index: 1
 weight: 1
 images:
 - /images/buddy.jpg

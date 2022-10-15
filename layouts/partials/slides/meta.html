@@ -1,7 +1,7 @@
 <div class="center">
     <div class="slide-meta columns is-mobile">
         {{ $tags := .ctx.Params.tags }}
-        {{ if $tags }}
+        <!-- {{ if $tags }}
             <div class="center column slide-meta-el">
                 <div class="slide-tags">
                     {{ range $i, $tag := $tags }}
@@ -23,6 +23,6 @@
                     <p>{{ with (index $.imgs 0).Exif }}</p>{{ .Date.Format "January 2, 2006" }}</p>{{ end }}</p>
                 </div>
             {{ end }}
-        {{ end }}
+        {{ end }} -->
     </div>
 </div>
