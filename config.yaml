@@ -12,7 +12,7 @@ params:
   portfolio:
     columns:
       desktop:
-        art: 4
+        art: 2
         archive: 6
         design: 2
         default: 3

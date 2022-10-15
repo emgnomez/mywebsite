@@ -6,7 +6,6 @@ images:
 title: TopSo Top Version Logo
 date: 2020-05-04
 tags:
-- work # homepage
 - archive # all posts
 - design
 ---

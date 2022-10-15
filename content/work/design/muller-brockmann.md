@@ -6,7 +6,6 @@ images:
 title: Josef Müller-Brockmann Inspired Poster
 date: 2019-09-28
 tags:
-- work # homepage
 - archive # all posts
 - design
 ---
