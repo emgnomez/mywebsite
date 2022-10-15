@@ -8,6 +8,9 @@ url: work
         Hi, my name is Emily.
 	</p>
 	<p>
-		I have a background in software engineering and aspire to do graphic design work.
+		I have a background in software engineering and am currently pursuing education in graphic design.
+	</p>
+	<p>
+		All bunny images are taken from Unsplash.
 	</p>
 </div>
