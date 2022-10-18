@@ -10,19 +10,20 @@ hideDate: true
 
 <div align="left-aligned">
 	<p>
-        Welcome to the about page! My name is Emily Gomez and I'm originally born and raised in Omaha/Lincoln, NE. Growing up I was always drawing and loved taking art classes. In college I decided to pursue a degree in Computer Science because my mother and stepfather worked at CSG and that seemed like a great career. 
+        Welcome to the about page! My name is Emily Gomez and I'm born and raised in Nebraska. Growing up, I've always loved drawing - markers, crayons, color pencils, watercolors were all mediums I dabbled in. In junior high, my art teacher Mrs. Alcalde told me that graphic design would be my calling. In high school there were three paths I was considering - foreign language translation, computer science, and graphic design. At the end of my first year in college, I decided to pursue a degree in Computer Science, largely because my mother worked a technical role and I aspired to be like her.
 	</p>
 	<p>
-		During college I decided to minor in Studio Art and had my first taste of graphic design.
-		Those classes left an impression on me to this day. Thank you Professor Strube and Professor Severson!
+		There was still a creative side to me that Computer Science classes didn't satisfy, so during university I minored in Studio Art having my first experience with graphic design. My teachers inspired me so much and it felt like I found the missing piece in my life. Thank you Professor Strube and Professor Severson!
 	</p>
 	<p>
-		I also had a chance to embark on two study abroad adventures where I met some very wonderful people including my partner. I spent two weeks in Japan at CUC and six months in the Netherlands at TU Delft. These experiences helped shape who I am today and I am grateful for them.
+		During university, I had a chance to embark on two study abroad adventures meeting some very wonderful people including my partner. I spent two weeks in Japan at Chiba Unviersity of Commerce and six months in the Netherlands at TU Delft. I discovered so much about other places, cultures, and people and these experiences helped shape who I am today.
 	</p>
 	<p>
-		At present, I've left my job as a software engineer and am now pursuing higher education in graphic design. The desire to learn design is what I'm currently moving towards and I am now looking forward to opportunities where I can learn to create user friendly frontend web designs.
+		I worked as a software engineer for two years after graduation and recently moved to Seattle, WA. My company could not support remote work from there so I took some time thinking about what I really wanted in my next job. I enjoyed creating user friendly frontend interfaces, but I also wanted to understand the question - <b><i>what makes a good web design?</i></b>
+	<p>
+		Everything has come full circle and I'm now pursuing higher education in Graphic Design. I'm excited for the opportunities to utilize my graphic design knowledge and what it takes to create user friendly frontend web designs.
 	</p>
 	<p>
-		A little more about me is that I love anime, webtoons, traveling (heh), cooking, my plants, bunnies, and learning new things. I've recently picked up sudoku, am reading Slaughterhouse Five, and will eventually beat Zelda BOTW when I gain the courage to finish it. I also have a really cool big brother.
+		A little more about me is that I love anime, webtoons, traveling, cooking, my plants, bunnies, and learning new things. I've recently picked up sudoku, am reading Slaughterhouse Five, and will eventually beat Zelda BOTW when I gain the courage to finish it.
 	</p>
 </div>
