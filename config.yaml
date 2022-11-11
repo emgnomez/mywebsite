@@ -5,23 +5,22 @@ googleAnalytics: ''
 
 params:
   image: /images/banner.png
-  subtitle: Hi, my name is Emily. I have a background in software engineering and am currently pursuing education in graphic design. All bunny images are taken from Unsplash.
+  subtitle: Welcome to my portfolio!
   #copyright: All rights reserved.
   author: Emily Gomez
   dontShowSource: false # please, do not do this :)
   portfolio:
     columns:
       desktop:
-        art: 2
+        art: 3
         archive: 6
-        design: 2
+        design: 3
         default: 3
       mobile:
         default: 2
         archive: 3
         design: 1
   socials:
-    # todo: change these links.
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:emgnomez@gmail.com'
       landing: true
