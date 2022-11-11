@@ -22,7 +22,7 @@
 
 
 .content table {
-    color: var(--dark);
+    color: var(--cream);
 }
 
 .content blockquote {
@@ -45,7 +45,7 @@
 .content .highlight>pre,
 .content td.code pre {
     background-color: #FAFAFA;
-    background-image: linear-gradient(var(--dark) 50%, var(--dark-light) 50%);
+    background-image: linear-gradient(var(--cream) 50%, var(--dark-light) 50%);
     background-repeat: repeat;
     background-size: 3em 3em;
     background-position: 0px 10px;

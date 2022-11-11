@@ -6,9 +6,13 @@
 /* WELCOME */
 
 .welcome {
-    background-image: url("/background.jpeg");
-    background-size: cover;
-    background-position: center;
+    background-image: url("/intro-2.png");
+    background-size: contain;
+    /* background-size: cover; */
+    background-position: 0 77px;
+    background-repeat:no-repeat;
+    background-position-x: center;
+    background-position-y: center;
     width: 100%;
     height: 100%;
 }
@@ -84,7 +88,7 @@
 }
 
 nav.navbar {
-    background-color: var(--dark);
+    background-color: var(--cream);
     justify-content: people-between;
     align-items: center;
     height: 6rem;
@@ -174,7 +178,7 @@ a img {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.92);
+    background-color: var(--cream);
 }
 
 .slide {
@@ -306,8 +310,8 @@ section .column img {
 }
 
 .footer {
-    background-color: var(--dark);
-    color: rgb(245, 245, 245);
+    background-color: var(--cream);
+    color: var(--dark);
 }
 
 .source-love {

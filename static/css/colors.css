@@ -4,5 +4,7 @@
     --dark: #000;
     --dark-light: #101010;
     --white: #eee;
+    --cream: #f4ebd9;
+    /* --cream: rgb(255, 252, 228); */
     --grey: rgb(169, 169, 169);
 }
