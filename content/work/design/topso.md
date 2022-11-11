@@ -18,7 +18,7 @@ At the end of Graphic Design II, I worked on a team of four students to create a
 
 Located throughout the design folder are other pieces of TopSo that I helped create for my team's company.
 
-## This Design
+## Design
 
 The TopSo logo is positioned to the left of the text and it on a black/white background.
 

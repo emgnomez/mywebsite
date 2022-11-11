@@ -16,7 +16,7 @@ tags:
 ## Background
 I created a camera product page mockup from a prompt I was given on an application. Images are taken from UnSplash. I utilized Adobe XD.
 
-## This Design
+## Design
 I made the camera image large and included the ratings and other camera images around to emphasis it. The rating is the second thing you may see when looking at this page which will encourage the shopper to buy it more if seen right at the beginning. There are more images below the large image for the viewer to analysize how good the product looks.
 
 Once done with the face value, the shopper's eyes will rest to the left of the page at the title and the price. Their eyes would read the rest of the information naturally flowing downwards. This design is readible, there is an element of interest to the left of a rounded object which is meant to represent a camera's lense, and each element is aligned to make a cohesive design.

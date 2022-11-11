@@ -17,7 +17,7 @@ At the end of Graphic Design II, I worked on a team of four students to create a
 
 Located throughout design are other pieces of TopSo that I helped create for the brand.
 
-## This Design
+## Design
 
 This TopSo logo design is positioned with the leaf on top of the company name and is on a black/white background.
 

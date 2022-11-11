@@ -17,6 +17,6 @@ At the end of Graphic Design II, I worked on a team of four students to create a
 
 Located throughout design are other pieces of TopSo that I helped create for the brand.
 
-## This Design
+## Design
 
 I created a mock website for TopSo using InVision. The home page has an introduction and call-to-action video underneath. The about page has the TopSo's history, mission, message, values, and leadereship. We have pages going over the mining reclamation process, the projects who we've partnered with, and a petition to require mining companies to take responsibility over abandoned mines.
