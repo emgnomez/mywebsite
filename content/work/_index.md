@@ -7,6 +7,5 @@ url: work
 	<p>
         Welcome to my portfolio!
 		<br>
-		<br>
 	</p>
 </div>
