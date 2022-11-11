@@ -7,15 +7,12 @@
 {{ else }}
 <section class="hero is-fullheight welcome">
 	{{ partial "navbar.html" . }}
-	<div class="hero-body has-text-centered">
+	<div class="hero-body has-text-centered" style="position:relative">
 		<div class="container">
-			<div class="enter">
+			<div class="enter" style="position:absolute; right: 10%;">
 				<button onclick="window.location.href='{{ relref . .Site.Params.Homepage }}'"
-				class="button is-white is-large is-outlined">enter</button>
+				class="button is-black is-large is-outlined">enter</button>
 			</div>
-			{{ range $d := .Params.Desc }}
-				<p>{{ $d }}</p>
-			{{ end }}
 		</div>
 	</div>
 	<div class="welcome-end">
