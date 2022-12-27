@@ -5,7 +5,6 @@ googleAnalytics: ''
 
 params:
   image: /images/banner.png
-  subtitle: Welcome to my portfolio!
   #copyright: All rights reserved.
   author: Emily Gomez
   dontShowSource: false # please, do not do this :)
@@ -31,6 +30,8 @@ params:
       url: 'https://instagram.com/emgnomez'
     - icon: 'fab fa-linkedin-in fa-lg'
       url: 'https://linkedin.com/in/em-gomez'
+    - icon: 'fab fa-youtube fa-lg'
+      url: 'https://www.youtube.com/@emilygomez5390'
   homepage: "/work" # homepage link, mostly same with menu.main[0]
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
 
