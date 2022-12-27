@@ -6,9 +6,8 @@ images:
 title: Senior Dog Sanctuary Poster
 date: 2022-10-15
 tags:
-- work # homepage
+- graphic # homepage
 - archive # all posts
-- design
 ---
 
 # Senior Dog Sanctuary Poster

@@ -6,9 +6,8 @@ images:
 title: No Thank You
 date: 2019-12-16
 tags:
-- work # homepage
+- graphic # homepage
 - archive # all posts
-- design
 ---
 
 # No Thank You

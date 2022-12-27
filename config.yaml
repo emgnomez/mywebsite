@@ -13,12 +13,12 @@ params:
       desktop:
         art: 3
         archive: 6
-        design: 3
+        graphic: 3
+        web: 3
         default: 3
       mobile:
         default: 2
         archive: 3
-        design: 1
   socials:
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:emgnomez@gmail.com'
@@ -32,7 +32,7 @@ params:
       url: 'https://linkedin.com/in/em-gomez'
     - icon: 'fab fa-youtube fa-lg'
       url: 'https://www.youtube.com/@emilygomez5390'
-  homepage: "/work" # homepage link, mostly same with menu.main[0]
+  homepage: "/graphic" # homepage link, mostly same with menu.main[0]
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
 
 markup:
@@ -49,11 +49,11 @@ permalinks:
 
 menu:
   main:
-    - name: work
-      url: /work/
+    - name: graphic
+      url: /tags/graphic/
       weight: 1
-    - name: design
-      url: /tags/design/
+    - name: web
+      url: /tags/web/
       weight: 2
     - name: art
       url: /tags/art/

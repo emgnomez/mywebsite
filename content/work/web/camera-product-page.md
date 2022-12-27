@@ -6,9 +6,8 @@ images:
 title: Camera Product Page Mockup
 date: 2022-09-28
 tags:
-- work # homepage
+- web
 - archive # all posts
-- design
 ---
 
 # Camera Product Page Mockup

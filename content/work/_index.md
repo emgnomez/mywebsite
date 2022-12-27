@@ -1,4 +1,4 @@
 ---
-title: work
-url: work
+title: graphic
+url: graphic
 ---

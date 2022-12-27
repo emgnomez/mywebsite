@@ -6,7 +6,6 @@ images:
 title: Pink Rose Oil Painting
 date: 2015
 tags:
-- work
 - archive # all posts
 - art
 ---

@@ -7,7 +7,7 @@ title: Josef Müller-Brockmann Inspired Poster
 date: 2019-09-28
 tags:
 - archive # all posts
-- design
+- graphic
 ---
 
 # Josef Müller-Brockmann

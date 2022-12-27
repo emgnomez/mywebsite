@@ -6,9 +6,8 @@ images:
 title: TopSo Side Version Logo
 date: 2020-05-04
 tags:
-- work # homepage
+- graphic # homepage
 - archive # all posts
-- design
 ---
 
 # TopSo Side Version Logo

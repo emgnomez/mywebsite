@@ -6,9 +6,8 @@ images:
 title: Kyuhyun Poster
 date: 2019-05-18
 tags:
-- work # homepage
+- graphic # homepage
 - archive # all posts
-- design
 ---
 
 # Kyuhyun Poster

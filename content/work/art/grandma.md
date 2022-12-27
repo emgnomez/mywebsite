@@ -6,7 +6,6 @@ images:
 title: Grandma Colored Pencil
 date: 2015
 tags:
-- work
 - archive # all posts
 - art
 ---
