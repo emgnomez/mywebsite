@@ -11,7 +11,7 @@ params:
   portfolio:
     columns:
       desktop:
-        art: 3
+        art: 2
         archive: 6
         graphic: 3
         web: 3

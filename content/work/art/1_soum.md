@@ -1,5 +1,5 @@
 ---
-index: 2
+index: 1
 weight: 1
 images:
 - /images/soum.jpg
