@@ -371,7 +371,7 @@ section .column img {
     border-right: 4px solid;
     border-radius: 4px;
     transform: rotateZ(45deg);
-    color: var(--grey);
+    color: var(--main-light);
 }
 
 @keyframes jumpInfinite {
