@@ -11,7 +11,7 @@ hideDate: true
 <div align="left-aligned">
 	<h1>tl;dr</h1>
 	<p>
-		My name is Emily Gomez and I'm pursuing my second Bachelor's in Graphic Design at SNHU. I graduated a few years ago with a Bachelor's in Computer Science and minored in Math and Studio Art. I've worked full-time as a software engineer for the past two years and am looking to find more purpose in my next position, where I can use creative vision and create friendly user interfaces.
+		My name is Emily Gomez and I'm pursuing my second Bachelor's in Graphic Design at SNHU. I graduated a few years ago with a Bachelor's in Computer Science and minored in Math and Studio Art. I've worked full-time as a software engineer for the past two years and am looking to find more purpose in my next position, where I can focus more on the design of friendly user interfaces.
 	</p>
 	<h1>Full Story</h1>
 	<p>

@@ -11,8 +11,8 @@
         </div>
     </div>
     <div class="navbar-middle">
-        <a class="a-clean" href={{ relref . $homeLink }}><p class="welcome-title">{{ .Site.Title }}</p></a>
-        {{ if not .IsHome }}
+        {{ if not .IsHome}}
+            <a class="a-clean" href={{ relref . $homeLink }}><p class="welcome-title">{{ .Site.Title }}</p></a>
             {{ if and .Site.Menus .Site.Menus.main }}
                 <div class="menu">
                     {{ $lastIndex := sub (len .Site.Menus.main) 1 }}
