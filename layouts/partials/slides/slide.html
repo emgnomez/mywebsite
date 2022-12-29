@@ -15,13 +15,13 @@
 		<div class="slide-imgs {{ if not $.disableFullheight }} fullheight {{end}}">
 			<div>
 				<div class="center">
-					<div class="slide-meta columns is-mobile">
+					{{/*  <div class="slide-meta columns is-mobile">  */}}
 						{{/*  {{ if not .ctx.Params.hideTitle }}
 							<div class="center column slide-meta-title">
 								<a href="{{ .ctx.Page.RelPermalink }}">{{ .ctx.Title }}</a>
 							</div>
 						{{ end }}  */}}
-					</div>
+					{{/*  </div>  */}}
 				</div>
 				<div {{ if .ctx.Params.multipleColumn }} class="columns center" {{ end }}>
 					{{ range $i, $img := $imgs }}
