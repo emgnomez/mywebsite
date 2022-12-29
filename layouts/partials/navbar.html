@@ -5,7 +5,7 @@
 <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-start">
         <!-- show the profile-logo if not on landing or about page -->
-        {{ if (not .IsHome ) }}
+        {{ if and (not .IsHome) (not (eq .RelPermalink "/about/")) }}
         <div class="logo">
             <a href={{ relref . $homeLink }}>
                 <img class="logo" src="/profile-circle.png">
