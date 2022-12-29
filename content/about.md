@@ -1,6 +1,6 @@
 ---
 images:
-- /images/profile-2.jpg
+- /images/profile-3.jpg
 title: about
 url: about
 hideTitle: true

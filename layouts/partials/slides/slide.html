@@ -25,7 +25,8 @@
 				</div>
 				<div {{ if .ctx.Params.multipleColumn }} class="columns center" {{ end }}>
 					{{ range $i, $img := $imgs }}
-						<!-- code for the about page profile pic {{ if eq $img.RelPermalink "/images/profile-2.jpg" }}
+						<!-- code for the about page profile pic
+						 {{ if eq $img.RelPermalink "/images/profile-2.jpg" }}
 								{{ $img = $img.Resize "200x" }}
 						{{ end }} -->
 					<div {{ if $.ctx.Params.multipleColumn }} class="column" {{ end }}>

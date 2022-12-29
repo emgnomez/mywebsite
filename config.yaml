@@ -1,5 +1,5 @@
 baseURL: https://emily5.com
-title: Emily M Gomez
+title: Emily Gomez
 defaultContentLanguage: 'en'
 googleAnalytics: ''
 
@@ -11,14 +11,14 @@ params:
   portfolio:
     columns:
       desktop:
-        art: 2
-        archive: 6
-        graphic: 3
+        art: 4
+        # archive: 6
+        graphic: 4
         web: 3
         default: 3
       mobile:
         default: 2
-        archive: 3
+        # archive: 3
   socials:
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:emgnomez@gmail.com'
@@ -58,9 +58,9 @@ menu:
     - name: art
       url: /tags/art/
       weight: 3
-    - name: archive
-      url: /tags/archive/
-      weight: 4
+    # - name: archive
+    #   url: /tags/archive/
+    #   weight: 4
     - name: about
       url: /about/
-      weight: 5
+      weight: 4
