@@ -13,7 +13,7 @@ tags:
 # Focus 05 Advertisement
 - Illustrator
 
-In my Design Thinking course, I completed a process book where I conducted research on the target audience (millennials) and came up with a final design that was intended to be displayed in the advertisements of a subway car.
+In my Design Thinking course, I completed a <a target="_blank" href="https://www.dropbox.com/s/j61v43zxqlqqxsf/2022.12.7_GRA%20280%20Project%20Process%20Book%20-%20Gomez.pdf?dl=0" style="color: var(--main);" onmouseover="this.style.color='var(--dark)'" onmouseout="this.style.color='var(--main)'">process book</a> where I conducted research on the target audience (millennials) and came up with a final design that was intended to be displayed in the advertisements of a subway car.
 
 I created a mood board and mind map for this process book and the image above is one of the final mockups I came up with. Image is taken from Unsplash.
 
