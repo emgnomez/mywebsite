@@ -24,7 +24,7 @@ hideDate: true
 		During university, I had the chance to embark on two study-abroad adventures meeting some wonderful people. I spent two weeks in Japan at the Chiba University of Commerce and six months in the Netherlands at TU Delft. I discovered so much about other places, cultures, and people, and these experiences helped shape who I am today.
 	</p>
 	<p>
-		I worked as a software engineer for two years after graduation and recently moved to Seattle, WA. My company couldn't sustain remote work from there, so I took the time to think about what I wanted in my next job. Working to create user-friendly frontend interfaces is my passion, but I also wanted to understand the question - <b><i>what makes a good web design?</i></b>
+		I worked as a software engineer for two years after graduation and recently moved to Seattle, WA. My company couldn't sustain remote work from there, so I took the time to think about what I wanted in my next job. Working to create user-friendly frontend interfaces is my passion, but I also wanted to understand the question - <b><i>what&nbsp;makes&nbsp;a&nbsp;good&nbsp;web&nbsp;design?</i></b>
 	<p>
 		Everything has come full circle, and I'm now pursuing higher education in graphic design to refine my understanding of web/graphic design practices. I'm excited about the opportunities to utilize my design knowledge and what it takes to create user-friendly frontend web designs.
 	</p>
