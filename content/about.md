@@ -31,7 +31,7 @@ hideDate: true
 	<p>
 		A little more about me is that I love anime, webtoons, traveling, cooking, sustainability, my plants, and learning new things. I play sudoku or video games, visit Frankie & Jo's ice cream every other week, make videos of recent adventures, and work on personal art projects in my spare time.
 	</p>
-	<h1><a target="_blank" href="https://www.dropbox.com/s/fqfl9g660k19jqb/2023-1-2_Gomez_Resume.pdf?dl=0" style="color: var(--main);" onmouseover="this.style.color='var(--dark)'" onmouseout="this.style.color='var(--main)'">
+	<h1><a target="_blank" href="https://www.dropbox.com/s/n34ft0e2herwc98/2023-1-14_Gomez_Resume.pdf?dl=0" style="color: var(--main);" onmouseover="this.style.color='var(--dark)'" onmouseout="this.style.color='var(--main)'">
 		Resume
 	</a></h1>
 </div>
