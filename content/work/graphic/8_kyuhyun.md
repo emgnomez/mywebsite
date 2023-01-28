@@ -1,5 +1,5 @@
 ---
-index: 7
+index: 8
 weight: 1
 images:
 - /images/kyuhyun.png

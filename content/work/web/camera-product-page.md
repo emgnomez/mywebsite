@@ -1,5 +1,5 @@
 ---
-index: 1
+index: 4
 weight: 1
 images:
 - /images/camera-product-page.png
