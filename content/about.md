@@ -11,7 +11,7 @@ hideDate: true
 <div align="left-aligned">
 	<h1>TL;DR</h1>
 	<p>
-		My name is Emily Gomez and I'm pursuing my second Bachelor's in Graphic Design at SNHU. I graduated a few years ago with a Bachelor's in Computer Science and minored in Math and Studio Art. I've worked full-time as a software engineer for the past two years and am looking to find more purpose in my next position, where I can focus more on the design of friendly user interfaces.
+		My name is Emily Gomez and I'm pursuing my second Bachelor's in Graphic Design at SNHU. I graduated a few years ago with a Bachelor's in Computer Science and minored in Math and Studio Art. I worked full-time as a software engineer for the past two years and am looking to find more purpose in my next position, where I can focus more on the design of friendly user interfaces.
 	</p>
 	<h1>Full Story</h1>
 	<p>
@@ -29,9 +29,9 @@ hideDate: true
 		Everything has come full circle, and I'm now pursuing higher education in graphic design to refine my understanding of web/graphic design practices. I'm excited about the opportunities to utilize my design knowledge and what it takes to create user-friendly frontend web designs.
 	</p>
 	<p>
-		A little more about me is that I love anime, webtoons, traveling, cooking, sustainability, my plants, and learning new things. I play sudoku or video games, visit Frankie & Jo's ice cream every other week, make videos of recent adventures, and work on personal art projects in my spare time.
+		A little more about me is that I love anime, webtoons, traveling, cooking, sustainability, plants, and learning about design. I play sudoku and video games, visit Frankie & Jo's ice cream every other week, make videos of recent adventures, and work on personal art projects in my spare time.
 	</p>
-	<h1><a target="_blank" href="https://www.dropbox.com/s/n34ft0e2herwc98/2023-1-14_Gomez_Resume.pdf?dl=0" style="color: var(--main);" onmouseover="this.style.color='var(--dark)'" onmouseout="this.style.color='var(--main)'">
+	<h1><a target="_blank" href="https://www.dropbox.com/s/pz48ovuvuvsbn2u/2023-2-1_Gomez_Resume.pdf?dl=0" style="color: var(--main);" onmouseover="this.style.color='var(--dark)'" onmouseout="this.style.color='var(--main)'">
 		Resume
 	</a></h1>
 </div>
