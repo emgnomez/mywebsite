@@ -2,7 +2,7 @@
 index: 6
 weight: 1
 images:
-- /images/woodblock-layout.png
+- /images/woodblock-layout.jpg
 title: Wood-Block Printing Magazine Spread
 date: 2023-2-17
 tags:
