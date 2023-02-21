@@ -1,5 +1,5 @@
 ---
-index: 5
+index: 7
 weight: 1
 images:
 - /images/donut-bytes-infographic.jpg

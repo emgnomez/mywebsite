@@ -2,7 +2,7 @@
 index: 2
 weight: 1
 images:
-- /images/global-water-initiative.jpg
+- /images/global-water-poster.png
 title: Global Clean Water Initiative Poster
 date: 2022-12-18
 tags:

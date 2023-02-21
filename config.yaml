@@ -11,9 +11,9 @@ params:
   portfolio:
     columns:
       desktop:
-        art: 4
+        # art: 4
         # archive: 6
-        graphic: 4
+        graphic: 3
         web: 3
         default: 3
       mobile:
@@ -23,7 +23,7 @@ params:
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:emgnomez@gmail.com'
     - icon: 'fab fa-github fa-lg'
-      url: 'https://github.com/emgnomez/mywebsite'
+      url: 'https://github.com/emgnomez/'
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.com/emgnomez'
     - icon: 'fab fa-linkedin-in fa-lg'
@@ -56,10 +56,10 @@ menu:
     - name: case studies
       url: https://www.dropbox.com/scl/fo/35pv60qx4hhoiuteyjqzr/h?dl=0&rlkey=80idtxw55f6jeyvatx70ahouj
       weight: 3
-    - name: art
-      url: /tags/art/
-      weight: 4
+    # - name: layout
+    #   url: /tags/layout/
+    #   weight: 4
     - name: about
       url: /about/
-      weight: 5
+      weight: 4
    

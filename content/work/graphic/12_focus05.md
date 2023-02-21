@@ -1,4 +1,4 @@
----
+<!-- ---
 index: 12
 weight: 1
 images:
@@ -21,4 +21,4 @@ I created a mood board and mind map for this process book and the image above is
 The previous Focus 05 advertisement had brought in more boomers than millennials to the restaurant.
 
 ### Solution
-This design focuses on contemporary stylistic elements to attract the millennial audience. San-serif typefaces were used as well as colors that promote the earth and sustainable ingredients. The colors are bright and positive. The image displayed has younger people socializing and surrounded by technology.
+This design focuses on contemporary stylistic elements to attract the millennial audience. San-serif typefaces were used as well as colors that promote the earth and sustainable ingredients. The colors are bright and positive. The image displayed has younger people socializing and surrounded by technology. -->
