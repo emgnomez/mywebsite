@@ -4,7 +4,7 @@ weight: 1
 images:
 - /images/woodblock-layout.jpg
 title: Wood-Block Printing Magazine Spread
-date: 2023-2-17
+date: 2023-02-17
 tags:
 - graphic # homepage
 - archive # all posts

@@ -4,7 +4,7 @@ weight: 1
 images:
 - /images/frutiger.png
 title: Frutiger
-date: 2023-1-29
+date: 2023-01-29
 tags:
 - archive # all posts
 - graphic
