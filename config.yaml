@@ -56,10 +56,13 @@ menu:
     - name: case studies
       url: https://www.dropbox.com/scl/fo/35pv60qx4hhoiuteyjqzr/h?dl=0&rlkey=80idtxw55f6jeyvatx70ahouj
       weight: 3
-    # - name: layout
-    #   url: /tags/layout/
+    # - name: art
+    #   url: /tags/art/
     #   weight: 4
     - name: about
       url: /about/
       weight: 4
+    - name: resume
+      url: https://www.dropbox.com/s/pz48ovuvuvsbn2u/2023-2-1_Gomez_Resume.pdf?dl=0
+      weight: 5
    

@@ -21,11 +21,14 @@
                     {{ $lastIndex := sub (len .Site.Menus.main) 1 }}
                     {{ $currentPage := .RelPermalink }}
                     {{ range $i, $el := .Site.Menus.main }}
+                    <!-- https://gist.github.com/dudil/edf2b1838c7cc5f1131a3777dbc662a9.html -->
+                    {{ $url := urls.Parse .URL }}
+                    {{ $baseurl := urls.Parse $.Site.Params.Baseurl }}
                         {{ $active := "" }}
                         {{ if eq $el.URL $currentPage }}
                             {{ $active = "active" }}
                         {{ end }}
-                        <a class="{{ $active }}" href="{{ $el.URL }}">{{ $el.Name }}</a>
+                        <a class="{{ $active }}" href="{{ $el.URL }}" {{ if ne $url.Host $baseurl.Host }}target="_blank"{{ end }}>{{ $el.Name }}</a>
                         {{ if ne $i $lastIndex }} / {{ end }}
                     {{ end }}
                 </div>
