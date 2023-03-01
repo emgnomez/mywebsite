@@ -1,5 +1,5 @@
 ---
-index: 4
+index: 9
 weight: 1
 images:
 - /images/senior-dog-sanctuary.png
