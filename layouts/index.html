@@ -6,16 +6,18 @@
 	<meta http-equiv="refresh" content="0; URL={{ relref . .Site.Params.Homepage }}" />
 </head>
 {{/* {{ else if eq .type "mobile" }}
-<section class="hero is-fullheight welcome-mobile">
-	<div class="hero-body has-text-centered">
-		<div class="container" style="position:relative">
-			<div class="enter" style="position:absolute; right: 10em;">
+<section>
+	<div class="container" style="position:relative">
+		<img src="/landing.png" alt="landing page saying creative portfolio and introducing an image of Emily">
+		<div style="display:inline-block">
+			<h1>Hi! I'm Emily - a graphic designer.</h1>
+			<div class="enter">
 				<button onclick="window.location.href='{{ relref . .Site.Params.Homepage }}'"
-					class="button is-black is-large is-outlined">enter</button>
+					class="button is-black is-large">enter</button>
 			</div>
 		</div>
 	</div>
-	<div class="welcome-end">
+	<div>
 		{{ partial "footer_base.html" . }}
 	</div>
 </section> */}}
@@ -23,9 +25,9 @@
 {{/* {{ partial "navbar.html" . }} */}}
 <section>
 	<div class="container" style="position:relative">
-		<img src="/landing.png" alt="landing page saying creative portfolio and introducing an image of Emily">
+		<img src="/landing3.png" alt="landing page saying creative portfolio and introducing an image of Emily">
 		<div style="display:inline-block">
-			<h1>Hi! I'm Emily - a graphic designer.</h1>
+			<h1 class="remove-margin">Hi! I'm Emily - a graphic designer.</h1>
 			<div class="enter">
 				<button onclick="window.location.href='{{ relref . .Site.Params.Homepage }}'"
 					class="button is-black is-large is-outlined">enter</button>

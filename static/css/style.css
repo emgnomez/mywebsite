@@ -75,9 +75,13 @@
     width: var(--desktop-work-width);
 }
 
+.remove-margin {
+    margin: 0;
+}
+
 .enter {
     display: grid;
-    margin-top: 50px;
+    margin-top: 35px;
     justify-content: center;
 }
 
@@ -87,6 +91,7 @@
     width: 170px;
     opacity: 0.9 !important;
     font-size: 2.3em;
+    border-width: 4px;
 }
 
 .enter>div.warn>span.warn {
