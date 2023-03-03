@@ -10,7 +10,7 @@
     background-size: contain;
     /* background-size: cover; */
     background-position: 0 77px;
-    background-repeat:no-repeat;
+    background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: center;
     width: 100%;
@@ -86,7 +86,7 @@
     height: 50px;
     width: 170px;
     opacity: 0.9 !important;
-    font-size: 1.9em;
+    font-size: 2.3em;
 }
 
 .enter>div.warn>span.warn {
