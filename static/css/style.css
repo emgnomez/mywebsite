@@ -78,6 +78,33 @@
 .remove-margin {
     margin: 0;
 }
+  
+@keyframes slideIn {
+    from {
+        margin-left: 100%;
+        width: 300%;
+    }
+
+    to {
+        margin-left: 0%;
+        width: 100%;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0%;
+    }
+
+    to {
+        opacity: 100%;
+    }
+}
+
+.landing-page {
+    animation-duration: 2s;
+    animation-name: slideIn;
+  }
 
 .add-margin {
     margin-top: 10px;
@@ -87,6 +114,11 @@
     display: grid;
     margin-top: 35px;
     justify-content: center;
+    opacity: 0;
+    animation-delay: 2s;
+    animation-duration: 2s;
+    animation-name: fadeIn;
+    animation-fill-mode: forwards;
 }
 
 .enter>.button {
