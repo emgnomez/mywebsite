@@ -79,6 +79,10 @@
     margin: 0;
 }
 
+.add-margin {
+    margin-top: 10px;
+}
+
 .enter {
     display: grid;
     margin-top: 35px;
