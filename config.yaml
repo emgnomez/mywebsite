@@ -30,7 +30,7 @@ params:
       url: 'https://linkedin.com/in/em-gomez'
     - icon: 'fab fa-youtube fa-lg'
       url: 'https://www.youtube.com/@emilygomez5390'
-  homepage: "/graphic" # homepage link, mostly same with menu.main[0]
+  homepage: "/web" # homepage link, mostly same with menu.main[0]
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
 
 markup:
@@ -47,11 +47,11 @@ permalinks:
 
 menu:
   main:
-    - name: graphic
-      url: /tags/graphic/
-      weight: 1
     - name: web
       url: /tags/web/
+      weight: 1
+    - name: graphic
+      url: /tags/graphic/
       weight: 2
     # - name: case studies
     #   url: https://www.dropbox.com/scl/fo/35pv60qx4hhoiuteyjqzr/h?dl=0&rlkey=80idtxw55f6jeyvatx70ahouj

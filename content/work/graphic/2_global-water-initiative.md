@@ -1,4 +1,4 @@
----
+<!-- ---
 index: 2
 weight: 1
 images:
@@ -20,4 +20,4 @@ In my Professional Practices course, I completed a <a target="_blank" href="http
 The goal of this project is to find volunteers in the local community of Mexico for the Global Clean Water Initiative which builds sustainable solutions for clean water in the community.
 
 ## Solution
-This design focuses on traditional elements such as using serif typefaces and showing a family. It uses a color palette of red, green, and blue. Red and green are colors in the Mexican flag and the blue symbolizes the clear skies and water of Mexico.
+This design focuses on traditional elements such as using serif typefaces and showing a family. It uses a color palette of red, green, and blue. Red and green are colors in the Mexican flag and the blue symbolizes the clear skies and water of Mexico. -->
