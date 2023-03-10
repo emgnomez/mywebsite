@@ -1,5 +1,5 @@
 ---
-index: 6
+index: 1
 weight: 1
 images:
 - /images/tech-crowd-infographic.jpg
