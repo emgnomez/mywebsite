@@ -439,3 +439,18 @@ section .column img {
         margin-top: 0;
     }
 }
+
+/* About */
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+}
