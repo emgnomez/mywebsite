@@ -22,8 +22,8 @@ params:
   socials:
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:emgnomez@gmail.com'
-    - icon: 'fab fa-github fa-lg'
-      url: 'https://github.com/emgnomez/'
+    # - icon: 'fab fa-github fa-lg'
+    #   url: 'https://github.com/emgnomez/'
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.com/emgnomez'
     - icon: 'fab fa-linkedin-in fa-lg'
