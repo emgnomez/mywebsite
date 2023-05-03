@@ -22,12 +22,12 @@ params:
   socials:
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:emgnomez@gmail.com'
+    - icon: 'fab fa-linkedin-in fa-lg'
+      url: 'https://linkedin.com/in/em-gomez'
     # - icon: 'fab fa-github fa-lg'
     #   url: 'https://github.com/emgnomez/'
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.com/emgnomez'
-    - icon: 'fab fa-linkedin-in fa-lg'
-      url: 'https://linkedin.com/in/em-gomez'
     - icon: 'fab fa-youtube fa-lg'
       url: 'https://www.youtube.com/@emilygomez5390'
   homepage: "/web" # homepage link, mostly same with menu.main[0]
