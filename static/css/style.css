@@ -293,12 +293,14 @@ a img {
     width: 100%;
 }
 
+
 section .column img {
     cursor: pointer;
 }
 
 .section {
     padding: 3rem 1rem;
+    /* background-color: var(--blue); */
 }
 
 .alittle {
