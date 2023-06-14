@@ -1,5 +1,5 @@
 ---
-index: 5
+index: 4
 weight: 1
 images:
 - /images/woodblock-layout.jpg

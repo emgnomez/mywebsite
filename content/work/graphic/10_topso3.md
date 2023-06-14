@@ -1,4 +1,4 @@
----
+<!-- ---
 index: 10
 weight: 1
 images:
@@ -17,4 +17,4 @@ At the end of Graphic Design II, I worked on a team of four students to create a
 
 I created a Flower Seed Bag and Plant Seed Bag product designs to sell under the TopSo company. With the purpose of the company being restorative and sustaining the earth, a product which promotes growing new life from the land was decided on. I utilized a bag package design template and edited both in Photoshop. All of the elements utilize the brand identity of TopSo.
 
-
+ -->

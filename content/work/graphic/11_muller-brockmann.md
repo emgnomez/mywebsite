@@ -1,4 +1,4 @@
----
+<!-- ---
 index: 11
 weight: 1
 images:
@@ -13,4 +13,4 @@ tags:
 # Josef Müller-Brockmann
 - InDesign
   
-I created this poster during my first Graphic Design course. We were learning about Josef Müller-Brockmann and the grid system. I utilized a grid with this piece and incorporated many of the elements and principles of design in it.
+I created this poster during my first Graphic Design course. We were learning about Josef Müller-Brockmann and the grid system. I utilized a grid with this piece and incorporated many of the elements and principles of design in it. -->

@@ -1,5 +1,5 @@
 ---
-index: 3
+index: 5
 weight: 1
 images:
 - /images/frutiger.png
