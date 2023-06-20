@@ -1,5 +1,5 @@
 ---
-index: 4
+index: 2
 weight: 1
 images:
 - /images/racerx-mockup.png
@@ -16,7 +16,9 @@ tags:
 
 I created brand style guidelines for a gaming company called RacerX. Images are taken from Unsplash and Pexels. Mockup image is from qeaql-studio on Freepik.
 
-I conducted target audience research, logo sketches, final logo renditions, and brand style guide components. 
+Check out the full <a target="_blank" href="https://www.dropbox.com/s/5mfz8vhddn8svsd/2023.6.20_Brand%20Guidelines%20-%20RacerX.pdf?dl=0" style="color: var(--main);" onmouseover="this.style.color='var(--dark)'" onmouseout="this.style.color='var(--main)'">RacerX Brand Guidelines</a>.
 
-Check out the <a target="_blank" href="https://www.dropbox.com/s/5mfz8vhddn8svsd/2023.6.20_Brand%20Guidelines%20-%20RacerX.pdf?dl=0" style="color: var(--main);" onmouseover="this.style.color='var(--dark)'" onmouseout="this.style.color='var(--main)'">RacerX Brand Guidelines</a>.
+## Process 
+
+I conducted target audience research, logo sketches, final logo renditions, and brand style guide components. I implemented regular feedback from the professor and fellow classmates.
 
