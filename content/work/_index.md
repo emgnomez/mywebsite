@@ -1,4 +1,4 @@
 ---
-title: web
-url: web
+title: projects
+url: projects
 ---

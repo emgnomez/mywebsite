@@ -14,7 +14,8 @@ params:
         # art: 4
         # archive: 6
         graphic: 3
-        web: 2
+        # web: 2
+        projects: 2
         default: 3
       mobile:
         default: 2
@@ -30,7 +31,7 @@ params:
       url: 'https://instagram.com/emgnomez'
     - icon: 'fab fa-youtube fa-lg'
       url: 'https://www.youtube.com/@emilygomez5390'
-  homepage: "/web" # homepage link, mostly same with menu.main[0]
+  homepage: "/projects" # homepage link, mostly same with menu.main[0]
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
 
 markup:
@@ -47,8 +48,8 @@ permalinks:
 
 menu:
   main:
-    - name: web
-      url: /tags/web/
+    - name: projects
+      url: /tags/projects/
       weight: 1
     - name: graphic
       url: /tags/graphic/
