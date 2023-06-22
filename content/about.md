@@ -21,6 +21,7 @@ hideDate: true
 				<li>Cooking</li>
 				<li>Frankie & Jo’s ice cream</li>
 				<li>Sustainability</li>
+				<li>Art (I'm obsessed with the Great Wave of Kanagawa)</li>
 				<li>Plants</li>
 				<li>Video games (Zelda TOTK is my favorite pass-time right now)</li>
 				<li>Working out (Attempting to complete my first ever Chloe Ting Summer Shred Challenge)</li>
