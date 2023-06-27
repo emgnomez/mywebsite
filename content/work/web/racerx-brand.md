@@ -14,7 +14,7 @@ tags:
 - Adobe Illustrator
 - Adobe InDesign
 
-I created brand style guidelines for a gaming company called RacerX. Images are taken from Unsplash and Pexels. Mockup image is from qeaql-studio on Freepik.
+I created brand style guidelines for a mock gaming company called RacerX. Images are taken from Unsplash and Pexels. Mockup image is from qeaql-studio on Freepik.
 
 Check out the full <a target="_blank" href="https://www.dropbox.com/s/ni1kpn39nqv9h5s/2023.6.26_Brand%20Guidelines%20-%20RacerX.pdf?dl=0" style="color: var(--main);" onmouseover="this.style.color='var(--dark)'" onmouseout="this.style.color='var(--main)'">RacerX Brand Guidelines</a>.
 
