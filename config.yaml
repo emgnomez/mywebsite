@@ -1,5 +1,5 @@
 baseURL: https://emily5.com
-title: Emily Gomez
+title: 
 defaultContentLanguage: 'en'
 googleAnalytics: ''
 
@@ -15,23 +15,23 @@ params:
         # archive: 6
         graphic: 3
         # web: 2
-        projects: 2
+        portfolio: 3
         default: 3
       mobile:
-        default: 2
+        default: 1
         # archive: 3
   socials:
-    - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:emgnomez@gmail.com'
+    - icon: 'far fa-solid fa-envelope fa-lg'
+      url: 'mailto:emilymgomez5@gmail.com'
     - icon: 'fab fa-linkedin-in fa-lg'
       url: 'https://linkedin.com/in/em-gomez'
     - icon: 'fab fa-github fa-lg'
       url: 'https://github.com/emgnomez/'
-    - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.com/emgnomez'
+    # - icon: 'fab fa-instagram fa-lg'
+    #   url: 'https://instagram.com/emgnomez'
     - icon: 'fab fa-youtube fa-lg'
       url: 'https://www.youtube.com/@emilygomez5390'
-  homepage: "/projects" # homepage link, mostly same with menu.main[0]
+  homepage: "/portfolio" # homepage link, mostly same with menu.main[0]
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
 
 markup:
@@ -48,12 +48,12 @@ permalinks:
 
 menu:
   main:
-    - name: projects
-      url: /tags/projects/
+    - name: portfolio
+      url: /tags/portfolio/
       weight: 1
-    - name: graphic
-      url: /tags/graphic/
-      weight: 2
+    # - name: graphic
+    #   url: /tags/graphic/
+    #   weight: 2
     # - name: case studies
     #   url: https://www.dropbox.com/scl/fo/35pv60qx4hhoiuteyjqzr/h?dl=0&rlkey=80idtxw55f6jeyvatx70ahouj
     #   weight: 3
@@ -66,4 +66,7 @@ menu:
     - name: resume
       url: https://www.dropbox.com/s/lo9erucduxq9r8c/2023.6.27_Emily_Gomez_Resume.pdf?dl=0
       weight: 5
+    - name: contact
+      url: /contact/
+      weight: 6
    

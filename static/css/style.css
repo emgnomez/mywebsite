@@ -66,6 +66,10 @@
     margin-right: 20px;
 }
 
+.social:hover {
+    color: var(--dark);
+}
+
 .work {
     display: grid;
     justify-items: center;
@@ -121,13 +125,22 @@
     animation-fill-mode: forwards;
 }
 
-.enter>.button {
-    margin-bottom: 20px;
-    height: 50px;
-    width: 170px;
+.enter>button {
+    margin-bottom: 20px !important;
+    height: 70px !important;
+    width: 190px !important;
     opacity: 0.9 !important;
-    font-size: 2.3em;
-    border-width: 3.5px;
+    background-color: var(--pink) !important;
+    color: white !important;
+    font-size: 2.3em !important;
+    border-radius: 35px !important;
+}
+
+.button:hover {
+    background-color: var(--grey-light) !important;
+    color: var(--pink) !important;
+    border-width: 3.5px !important;
+    border-color: var(--pink);
 }
 
 .enter>div.warn>span.warn {
@@ -140,7 +153,7 @@
 }
 
 nav.navbar {
-    background-color: var(--cream);
+    background-color: var(--grey-light);
     justify-content: people-between;
     align-items: center;
     height: 6rem;
@@ -167,7 +180,6 @@ div.logo {
 }
 
 img.logo {
-    border-radius: 50%;
     height: 100%;
 }
 
@@ -230,7 +242,7 @@ a img {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: var(--cream);
+    background-color: var(--grey-light);
 }
 
 .slide {
@@ -364,12 +376,12 @@ section .column img {
 }
 
 .footer {
-    background-color: var(--cream);
+    background-color: var(--grey-light);
     color: var(--dark);
 }
 
 .source-love {
-    color: var(--main-light);
+    color: var(--pink);
 }
 
 #mobile {

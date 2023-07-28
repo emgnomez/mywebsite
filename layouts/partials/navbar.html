@@ -5,10 +5,10 @@
 <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-start">
         <!-- show the profile-logo if not on landing or about page -->
-        {{ if and (not .IsHome) (not (eq .RelPermalink "/about/")) }}
+        {{ if and (not .IsHome) }}
         <div class="logo">
             <a href={{ relref . $homeLink }}>
-                <img class="logo" src="/profile-circle-bright.png">
+                <img class="logo" src="/logo.png">
             </a>
         </div>
         {{ end }}
@@ -44,7 +44,7 @@
             {{ range $el := $socials }}
                 <div class="social">
                     <a href="{{ $el.url }}" target="_blank">
-                        <i class="{{ $el.icon }}"></i>
+                        <i class="{{ $el.icon }}" style="color: var(--pink)" onmouseover="this.style.color='var(--dark)'" onmouseout="this.style.color='var(--pink)'"></i>
                     </a>
                 </div>
             {{ end }}
