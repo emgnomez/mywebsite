@@ -18,7 +18,7 @@ hideDate: true
 			<ul>
 				<li>Traveling (I've visited at least 10 different countries largely in Europe and Asia.)</li>
 				<li>Anime</li>
-				<li>Video games (Zelda TOTK is my favorite pass-time right now)</li>
+				<li>Video games (Zelda TOTK is my favorite pastime right now)</li>
 				<li>Cooking</li>
 				<li>Frankie & Jo’s ice cream</li>
 				<li>Sustainability</li>
