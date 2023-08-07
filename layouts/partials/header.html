@@ -10,6 +10,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	{{ if and .Title (not .IsHome) }}
+	<!-- (not (eq .RelPermalink "/about/")) (not (eq .RelPermalink "/contact/")) -->
 		<title>{{ .Title }} {{ if .Params.Subtitle }}- {{ .Params.Subtitle }}{{else}}- {{ .Site.Title }}{{ end }} </title>
 	{{ else }}
 		<title>{{ .Site.Title }} </title>
