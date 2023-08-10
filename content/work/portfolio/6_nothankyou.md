@@ -1,5 +1,5 @@
 ---
-index: 4
+index: 6
 weight: 1
 images:
 - /images/nothankyou-mockup.jpg
@@ -13,6 +13,8 @@ tags:
 # No Thank You
 - InDesign
 - Photoshop
+- Poster
+- Mixed Media
 
 # Purpose
 The purpose of this design artifact is to show my ability in making call-to-action posters. The audience of this design artifact is people interested in my technical skills and graphic design capabilities. The real-world users are consumers and conscious fashion brands. The consumers are people interested in sustainability and declining the use of single-use plastic bags. This artifact should show how my design fits in a printed and public setting. It also should show scalability for being a poster in the city.

@@ -11,15 +11,10 @@ params:
   portfolio:
     columns:
       desktop:
-        # art: 4
-        # archive: 6
-        graphic: 3
-        # web: 2
         portfolio: 3
         default: 3
       mobile:
         default: 1
-        # archive: 3
   socials:
     - icon: 'far fa-solid fa-envelope fa-lg'
       url: 'mailto:emilymgomez5@gmail.com'
@@ -51,22 +46,13 @@ menu:
     - name: portfolio
       url: /tags/portfolio/
       weight: 1
-    # - name: graphic
-    #   url: /tags/graphic/
-    #   weight: 2
-    # - name: case studies
-    #   url: https://www.dropbox.com/scl/fo/35pv60qx4hhoiuteyjqzr/h?dl=0&rlkey=80idtxw55f6jeyvatx70ahouj
-    #   weight: 3
-    # - name: art
-    #   url: /tags/art/
-    #   weight: 4
     - name: about
       url: /about/
-      weight: 4
+      weight: 2
     - name: resume
       url: https://www.dropbox.com/scl/fi/f8h5g3210fmk7qczvyh8y/2023.8.8_Emily_Gomez_Resume.pdf?rlkey=nylnt8176xgd1jcvg5eq2tywo&dl=0
-      weight: 5
+      weight: 3
     - name: contact
       url: /contact/
-      weight: 6
+      weight: 4
    

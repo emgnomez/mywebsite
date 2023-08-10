@@ -1,5 +1,5 @@
 ---
-index: 6
+index: 9
 weight: 1
 images:
 - /images/tech-crowd-infographic.jpg
@@ -12,6 +12,7 @@ tags:
 
 # Tech Crowd Infographic
 - Illustrator
+- Infographic
 
 I created an infographic containing social media usage data in my Designing with Data course. We were given a dataset of social media usage by demographic groups - age, income, and education. I came up with the data story that the groups who used social media less in 2012 have had the most growth in using it by 2021. This story is told through three different graphs made in Illustrator. Image is taken from Pexels.
 

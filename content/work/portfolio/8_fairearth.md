@@ -1,5 +1,5 @@
 ---
-index: 5
+index: 8
 weight: 1
 images:
 - /images/fairearth.png
@@ -12,8 +12,10 @@ tags:
 
 # Fairearth Logo
 - Illustrator
-  
-The creator of <a href="https://fairearth.eco" style="color: var(--pink);" onmouseover="this.style.color='var(--dark)'" onmouseout="this.style.color='var(--pink)'">fairearth</a> reached out to me and needed assistance with creating their logo.
+- Logo Design
+
+# Purpose
+The purpose of this design artifact is to promote <a href="https://fairearth.eco" style="color: var(--pink);" onmouseover="this.style.color='var(--dark)'" onmouseout="this.style.color='var(--pink)'">fairearth</a> through a logo that aligns with its values. 
 
 <img src="/wave1.png" style="height:1em;margin-left:0">
 
