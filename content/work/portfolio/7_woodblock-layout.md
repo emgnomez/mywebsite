@@ -14,6 +14,12 @@ tags:
 - InDesign
 - Magazine Layout
 
-I created a two-page magazine layout for a wood-block printing article. I layered many elements on page one over a wood-block print by Hokusai (my favorite art piece - the Great Wave of Kanagawa!). I bolded certain beginning sentences I thought provoked interest and statements that would keep the audience's attention. I gave a slightly textured background to page two to make the layout more interesting and cohesive with the image on page one.
+# Purpose
+I created a two-page magazine layout for a wood-block printing article.
 
 <img src="/wave1.png" style="height:1em;margin-left:0">
+
+# Process
+I layered many elements on page one over a wood-block print by Hokusai (my favorite art piece - the Great Wave of Kanagawa!). I bolded certain beginning sentences I thought provoked interest and statements that would keep the audience's attention. I gave a slightly textured background to page two to make the layout more interesting and cohesive with the image on page one.
+
+<img src="/wave2.png" style="height:1em;margin-left:0">
