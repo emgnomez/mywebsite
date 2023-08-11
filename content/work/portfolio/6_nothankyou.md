@@ -11,7 +11,6 @@ tags:
 ---
 
 # No Thank You
-- InDesign
 - Photoshop
 - Poster
 - Mixed Media
