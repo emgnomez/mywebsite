@@ -50,7 +50,7 @@ menu:
       url: /about/
       weight: 2
     - name: resume
-      url: https://www.dropbox.com/scl/fi/f8h5g3210fmk7qczvyh8y/2023.8.8_Emily_Gomez_Resume.pdf?rlkey=nylnt8176xgd1jcvg5eq2tywo&dl=0
+      url: https://www.dropbox.com/scl/fi/ps76vjar545rykv10z1gj/2023.8.16_Emily_Gomez_Resume.pdf?rlkey=s28vbtjrktk7nyinvrwavf1ro&dl=0
       weight: 3
     - name: contact
       url: /contact/
