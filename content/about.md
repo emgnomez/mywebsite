@@ -18,9 +18,8 @@ hideDate: true
 			<ul>
 				<li>Traveling (Japan, Holland, and Singapore are my favorite countries I've visited so far!)</li>
 				<li>Anime</li>
-				<li>Video games (Zelda TOTK is my favorite pastime right now)</li>
+				<li>Top rope climbing</li>
 				<li>Cooking</li>
-				<li>Frankie & Jo’s ice cream</li>
 				<li>Sustainability</li>
 				<li>Art (I'm obsessed with the Great Wave of Kanagawa)</li>
 				<li>Plants</li>
@@ -29,9 +28,9 @@ hideDate: true
 		<div class="column">
 			<h5>I’m learning...</h5>
 			<ul>
-				<li>Graphic Design (SNHU)</li>
-				<li>Prototyping in Adobe XD</li>
-				<li>Video editing</li>
+				<li>AI Design</li>
+				<li>Telugu</li>
+				<li>Crochet</li>
 				<li>To be a better plant parent</li>
 				<li>New recipes</li>
 			</ul>
